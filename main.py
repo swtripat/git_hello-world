@@ -1,5 +1,5 @@
 from function import details
 
-print('Hello USA')
+print('Hello East Coast')
 
 details()
