@@ -1,2 +1,2 @@
 def details():
-  print('New York is the best state')
+  print('New Jersey is the best state')
